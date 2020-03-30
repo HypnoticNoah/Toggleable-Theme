@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <title>Toggleable Theme</title>
+</head>
+<body>
+    <link rel="stylesheet" media="screen" href="style.css">
+    <div class="container-4">
+        <h2><b>Toggleable Theme</b></h2>
+        <br>
+        <div class="flex-box-theme">
+            <form action="">
+                <select name="backdrop" id="backround" onchange="colorChange(this)" class="btn btn-info">
+                    <option disabled selected value>Select Theme</option>
+                    <option value="dark" >Dark Theme</option>
+                    <option value="light">Light Theme</option>
+                    <option value="green">Green Theme</option>
+                    <option value="red">Red Theme</option>
+                    <option value="yellow">Yellow Theme</option>
+                    <option value="blue">Blue Theme</option>
+                    <option value="random">Random Theme</option>
+                </select>
+            </form>
+            <button class="btn btn-danger" onclick='reset()' >Reset Theme</button>
+        </div>
+    </div>
+    <br>
+    <br>
+    <h1 id="div1" ></h1>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
