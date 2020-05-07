@@ -4,7 +4,7 @@ This is a simple script that uses bootstrap and it changes the background of the
 # Contact Me!
  If you have any questions/suggestions or any problems with my work, feel free to contact me via email or message me on discord!
 
-  Discord: *HypnoticNoah#0001*
+  Discord: *HypnoticNoah#1111*
 
   Email: *hypnoticnoah@gmail.com*
 
