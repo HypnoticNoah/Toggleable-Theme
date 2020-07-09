@@ -6,7 +6,7 @@ This is a simple script that uses bootstrap and it changes the background of the
 
   Discord: *Neoptunium#1111*
 
-  Email: *hypnoticnoah@gmail.com*
+  Email: *neoptunium@gmail.com*
 
 # Dependencies 
 NONE - Just needs all the files that are included!
